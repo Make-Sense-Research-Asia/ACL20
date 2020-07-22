@@ -34,4 +34,4 @@ Keywords: Multi-Modal, VQA, Graph Convolutional Network
 
 Keywords: Multi-Modal, VQA
 
-阅读简述：[笔记]([https://github.com/Make-Sense-Research-Asia/ACL20/tree/master/notes/Multimodal%20Neural%20Graph%20Memory%20Networks](https://github.com/Make-Sense-Research-Asia/ACL20/tree/master/notes/Multimodal Neural Graph Memory Networks))
+阅读简述：[笔记](https://github.com/Make-Sense-Research-Asia/ACL20/tree/master/notes/Multimodal%20Neural%20Graph%20Memory%20Networks)
