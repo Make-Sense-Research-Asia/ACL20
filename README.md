@@ -26,3 +26,12 @@ Keywords: Multi-Modal, VQA, Graph Convolutional Network
 
 阅读简述：[笔记](https://github.com/Make-Sense-Research-Asia/ACL20/blob/master/notes/Huang%20%E7%AD%89%E3%80%82%20-%20Aligned%20Dual%20Channel%20Graph%20Convolutional%20Network%20f/%E7%AC%94%E8%AE%B0.md)
 
+### Multimodal Neural Graph Memory Networks
+
+占坑人【Non_Negative】
+
+关键词：多模态；VQA
+
+Keywords: Multi-Modal, VQA
+
+阅读简述：[笔记](notes\Multimodal Neural Graph Memory Networks)
