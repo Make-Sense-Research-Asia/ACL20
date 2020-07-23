@@ -43,4 +43,4 @@ Keywords: Multi-Modal, VQA
 
 Keywords: News Recommendation Dataset
 
-阅读简述：[笔记](https://github.com/Make-Sense-Research-Asia/ACL20/tree/master/notes/Multimodal%20Neural%20Graph%20Memory%20Networks)
+阅读简述：[笔记](https://github.com/Make-Sense-Research-Asia/ACL20/tree/master/notes/MIND%20A%20Large-scale%20Dataset%20for%20News%20Recommendation)
