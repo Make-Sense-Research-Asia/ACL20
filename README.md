@@ -20,7 +20,7 @@
 
 占坑人【Luke】
 
-关键词：多模态；VQA；图卷积
+关键词：多模态；视觉问答；图卷积网络
 
 Keywords: Multi-Modal, VQA, Graph Convolutional Network
 
@@ -44,3 +44,12 @@ Keywords: Multi-Modal, VQA
 Keywords: News Recommendation Dataset
 
 阅读简述：[笔记](https://github.com/Make-Sense-Research-Asia/ACL20/tree/master/notes/MIND%20A%20Large-scale%20Dataset%20for%20News%20Recommendation)
+
+### GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media
+
+占坑人【Luke】
+
+关键词：假新闻检测、图卷积网络
+
+Keywords: Fake News Detection, Graph Convolutional Network
+
