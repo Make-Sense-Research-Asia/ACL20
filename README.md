@@ -35,3 +35,12 @@ Keywords: Multi-Modal, VQA, Graph Convolutional Network
 Keywords: Multi-Modal, VQA
 
 阅读简述：[笔记](https://github.com/Make-Sense-Research-Asia/ACL20/tree/master/notes/Multimodal%20Neural%20Graph%20Memory%20Networks)
+### MIND A Large-scale Dataset for News Recommendation
+
+占坑人【Purple】
+
+关键词：新闻推荐数据集
+
+Keywords: News Recommendation Dataset
+
+阅读简述：[笔记](https://github.com/Make-Sense-Research-Asia/ACL20/tree/master/notes/Multimodal%20Neural%20Graph%20Memory%20Networks)
