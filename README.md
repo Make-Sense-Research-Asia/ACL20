@@ -53,3 +53,4 @@ Keywords: News Recommendation Dataset
 
 Keywords: Fake News Detection, Graph Convolutional Network
 
+阅读简述：[笔记](https://github.com/Make-Sense-Research-Asia/ACL20/blob/master/notes/Lu%20%E5%92%8C%20Li%20-%202020%20-%20GCAN%20Graph-aware%20Co-Attention%20Networks%20for%20Explai/note.pdf)
